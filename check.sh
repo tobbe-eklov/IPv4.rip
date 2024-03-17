@@ -2,8 +2,8 @@
 
 
 date=$(date +"%Y%m%d")
-if [ ! -d $date ] ; then
-	mkdir $date
+if [ ! -d ${date} ] ; then
+	mkdir ${date}
 fi	
 
 echo Fetching se.zone
