@@ -4,6 +4,7 @@ Scripts to create status on https://ipv4.rip
 chech.sh fetch and clena up .se zone and then check for IPv6 for www, ns and MX.
 calc.sh creates the stats text ->
 
+<pre>
 At 20240317 the .se zone contains 1415475 domains
 27.86 % have IPv6 on www
 80.96 % have IPv6 on one or more DNS
