@@ -1,7 +1,7 @@
 # IPv4.rip
 Scripts to create status on https://ipv4.rip
 
-chech.sh fetch and clena up .se zone and then check for IPv6 for www, ns and MX.
+chech.sh fetch and clena up .se zone and then check for IPv6 for www, ns and MX.<br>
 calc.sh creates the stats text ->
 
 <pre>
